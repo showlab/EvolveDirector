@@ -16,7 +16,7 @@
 ## Method
 
 <p align="center">
-  <img src="assets/method.png" height=300>
+  <img src="assets/method.png" width="85%">
 </p>
 
 
