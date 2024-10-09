@@ -1,22 +1,45 @@
 <p align="center">
-  <img src="assets/generated_logo.jpg"  height=120>
+  <img src="assets/generated_logo.jpg"  height=180>
 </p>
 
-### <div align="center">EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models<div> 
+<p align="center">
+  <h2 align="center">EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models</h2>
+  <p align="center">
+    <a href="https://ruizhaocv.github.io/"><strong>Rui Zhao</strong></a><sup>1</sup>
+    ·
+    <a href="https://jacobyuan7.github.io/"><strong>Hangjie Yuan</strong></a><sup>2</sup>
+    ·
+    <a href="https://scholar.google.com/citations?user=grn93WcAAAAJ"><strong>Yujie Wei</strong></a><sup>2</sup>
+    ·
+    <a href="https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ"><strong>Shiwei Zhang</strong></a><sup>2</sup>
+    ·
+    <a href="https://ycgu.site/"><strong>Yuchao Gu</strong></a><sup>1</sup>
+    ·
+    <a href="https://scholar.google.com/citations?user=nrbWSvYAAAAJ"><strong>Lingmin Ran</strong></a><sup>1</sup>
+    ·
+    <a href="https://scholar.google.com/citations?user=cQbXvkcAAAAJ"><strong>Xiang Wang</strong></a><sup>2</sup>
+    ·
+    <a href="https://zhangjiewu.github.io/"><strong>Zhangjie Wu</strong></a><sup>1</sup>
+    ·
+    <a href="https://junhaozhang98.github.io//"><strong>Junhao Zhang</strong></a><sup>1</sup>
+    ·
+    <a href="https://scholar.google.com/citations?user=16RDSEUAAAAJ"><strong>Yingya Zhang</strong></a><sup>2</sup>
+    ·
+    <a href="https://sites.google.com/view/showlab"><strong>Mike Zheng Shou</strong></a><sup>1</sup>
+    <br>
+    <br>
+    <a href=" "><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a> &ensp;
+    <a href="https://huggingface.co/ruizhaocv/Edgen"><img src="https://img.shields.io/static/v1?label=Edgen&message=HuggingFace&color=yellow"></a> &ensp;
+    <br>
+    <b><sup>1</sup>Show Lab, National University of Singapore&nbsp; <sup>2</sup>Alibaba Group&nbsp;</b>
+  </p>
 
-<div align="center">
-
-  <a href=" "><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a> &ensp;
-  <a href=" "><img src="https://img.shields.io/static/v1?label=Edgen&message=HuggingFace&color=yellow"></a> &ensp;
-
-
-</div>
 
 ---
 ## Method
 
 <p align="center">
-  <img src="assets/method.png"  height=200>
+  <img src="assets/method.png">
 </p>
 
 
