@@ -1,0 +1,5 @@
+Synchronizer/dynamic_0000/
+output/
+.idea/
+**/__pycache__/
+**/*.npz
