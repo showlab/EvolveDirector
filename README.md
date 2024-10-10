@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <a href=" "><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a> &ensp;
+  <a href="https://arxiv.org/abs/2410.07133"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a> &ensp;
   <a href="https://huggingface.co/ruizhaocv/Edgen"><img src="https://img.shields.io/static/v1?label=Edgen&message=HuggingFace&color=yellow"></a> &ensp;
 
 
