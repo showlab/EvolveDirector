@@ -153,7 +153,15 @@ python tools/extract_features.py --img_size=1024 \
 
 ```bibtex
 
-
+@misc{zhao2024evolvedirectorapproachingadvancedtexttoimage,
+      title={EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models}, 
+      author={Rui Zhao and Hangjie Yuan and Yujie Wei and Shiwei Zhang and Yuchao Gu and Lingmin Ran and Xiang Wang and Zhangjie Wu and Junhao Zhang and Yingya Zhang and Mike Zheng Shou},
+      year={2024},
+      eprint={2410.07133},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.07133}, 
+}
 ```
 
 ## Shoutouts
